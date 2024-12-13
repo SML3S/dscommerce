@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.devsuperior.dscommerce.ProductService;
 import com.devsuperior.dscommerce.dto.ProductDTO;
+import com.devsuperior.dscommerce.service.ProductService;
 
 
 @RestController
